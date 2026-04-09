@@ -4,6 +4,10 @@ body {
     color: whitesmoke;
     font-size: 5rem;
     overflow: hidden;
+    background: black url("../img/flames.gif");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
 }
 .grid-container {
     display:grid;
